@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ishui/AndroidStudioProjects/UOGSGPACGPACalculator/app/src/main/res/layout/activity_instructions.xml" value="0.18611111111111112" />
         <entry key="..\:/Users/ishui/AndroidStudioProjects/UOGSGPACGPACalculator/app/src/main/res/layout/activity_main.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/ishui/AndroidStudioProjects/UOGSGPACGPACalculator/app/src/main/res/layout/fragment_intro_01.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/ishui/AndroidStudioProjects/UOGSGPACGPACalculator/app/src/main/res/layout/fragment_intro_02.xml" value="0.225" />
+        <entry key="..\:/Users/ishui/AndroidStudioProjects/UOGSGPACGPACalculator/app/src/main/res/layout/fragment_intro_03.xml" value="0.225" />
+        <entry key="..\:/Users/ishui/AndroidStudioProjects/UOGSGPACGPACalculator/app/src/main/res/layout/fragment_intro_04.xml" value="0.225" />
+        <entry key="..\:/Users/ishui/AndroidStudioProjects/UOGSGPACGPACalculator/app/src/main/res/layout/fragment_intro_05.xml" value="0.225" />
+        <entry key="..\:/Users/ishui/AndroidStudioProjects/UOGSGPACGPACalculator/app/src/main/res/layout/fragment_intro_slider.xml" value="0.19" />
       </map>
     </option>
   </component>

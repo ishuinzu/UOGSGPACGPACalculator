@@ -1,9 +1,6 @@
 package com.ishuinzu.uogsgpacgpacalculator;
 
 import android.os.Bundle;
-import android.view.View;
-import android.view.WindowManager;
-import android.view.animation.AnimationUtils;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -23,11 +20,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init() {
-        // Full Screen
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
-        getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE);
-
-        // Rotate 360
-        binding.imgLogo.setAnimation(AnimationUtils.loadAnimation(getApplicationContext(), R.anim.rotate_360));
     }
 }

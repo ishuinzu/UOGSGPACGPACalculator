@@ -7,11 +7,12 @@
     android:background="@color/background"
     tools:context=".MainActivity">
 
-    <androidx.appcompat.widget.AppCompatImageView
-        android:id="@+id/imgLogo"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_centerInParent="true"
-        app:srcCompat="@drawable/img_logo_rounded" />
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/logo" />
 
 </RelativeLayout>
